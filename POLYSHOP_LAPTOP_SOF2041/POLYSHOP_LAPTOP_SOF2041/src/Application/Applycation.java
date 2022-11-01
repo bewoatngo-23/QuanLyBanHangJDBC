@@ -21,6 +21,7 @@ public class Applycation {
         LoginForm lgf = new LoginForm();
         lgf.setVisible(true);
 //hao
+//haongo
     }
 
 }
