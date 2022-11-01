@@ -20,8 +20,6 @@ public class Applycation {
     public static void main(String[] args) {
         LoginForm lgf = new LoginForm();
         lgf.setVisible(true);
-//hao
-//haongo
     }
 
 }
